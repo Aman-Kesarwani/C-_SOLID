@@ -1,0 +1,3 @@
+1: I will learn machine learning
+2: I will qualify GRE
+3: I will apply for masters
